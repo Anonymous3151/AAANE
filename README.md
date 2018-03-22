@@ -5,7 +5,7 @@ Codes and Dataset for IJCAI2018 submitted paper ‘‘AAAANE: Attention-based Ad
 
 -  keras==1.2.1
 -  theano==1.0
--  networks==2.0
+-  networkx==2.0
 - numpy==1.13.3
 -  scipy==0.19.1
 -  gensim==3.2.0
