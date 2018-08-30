@@ -1,5 +1,5 @@
 # AAANE: Attention-based Adversarial Autoencoder for Multi-scale Network Embedding 
-Codes and Dataset for ICTAI2018 submitted paper ‘‘AAAANE: Attention-based Adversarial Autoencoder for Multi-scale Network Embedding’’. 
+Codes and Dataset paper ‘‘AAAANE: Attention-based Adversarial Autoencoder for Multi-scale Network Embedding’’. 
 
 ## Requirements
 
